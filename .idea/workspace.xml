@@ -111,7 +111,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: Swap_100_USDT_to_BTC_MailOtp">
+  <component name="RunManager" selected="JUnit.Runner">
     <configuration name="GmailQuickstart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="bilira.utilities.GmailQuickstart" />
       <module name="Bilira" />
@@ -193,11 +193,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Runner" />
         <item itemvalue="Cucumber Java.Feature: Swap_100_USDT_to_BTC_MailOtp" />
         <item itemvalue="Application.GmailQuickstart" />
         <item itemvalue="Application.ManuelMail" />
         <item itemvalue="Cucumber Java.Feature: Swap_100_USDT_to_BTC" />
-        <item itemvalue="JUnit.Runner" />
       </list>
     </recent_temporary>
   </component>
